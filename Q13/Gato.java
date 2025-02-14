@@ -10,6 +10,6 @@ public class Gato implements Animal {
     }
     
     public void alimentar() {
-        System.out.println("Gato comendo atum");
+        System.out.println("Gato comendo um peixe");
     }
 }
